@@ -1,0 +1,23 @@
+{
+  "name": "gas-settup",
+  "version": "0.0.1",
+  "description": "work-project",
+  "main": "Todo.js",
+  "scripts": {
+    "test": "test",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-NTHUSA/GAS-Setup.git"
+  },
+  "author": "Nick Gideo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-NTHUSA/GAS-Setup/issues"
+  },
+  "homepage": "https://github.com/Nick-NTHUSA/GAS-Setup#readme",
+  "devDependencies": {
+    "babel-cli": "^6.5.1"
+  }
+}
